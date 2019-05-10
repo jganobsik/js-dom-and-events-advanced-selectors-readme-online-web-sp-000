@@ -4,7 +4,7 @@ function firstListItem() {
 }
 
 function  paragraphSelector() {
-  
+   return $('p');
 }
 
 function lastImageSelector() {
